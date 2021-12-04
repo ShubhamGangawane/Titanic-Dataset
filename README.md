@@ -25,4 +25,4 @@ The dataset is from :- https://www.kaggle.com/c/titanic/data 🚢
 - Random Forest Classifier
 
 ### Visualization part 🎥 
-- Also applied some visualization techniques like :- countplot , pie-chart , distplot , boxplot , heatmap etc. 
+- Also applied some visualization techniques like Seaborn and Matplotlib :- countplot , pie-chart , distplot , boxplot , heatmap etc. 
